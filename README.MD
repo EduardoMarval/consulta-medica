@@ -27,6 +27,10 @@ en los requerimientos
 
 - La licencia tiene un código, un diagnóstico, una fecha de inicio y una fecha de término.
 
+# Modelo relacional:
+
+![Modelo relacional .drawio](./assets/img/modelo_relacional.png)
+
 
 ● /index.sql
 ● /README.MD
